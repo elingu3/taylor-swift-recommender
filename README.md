@@ -74,4 +74,10 @@ Built with **NumPy, pandas, and cosine similarity**, and deployed using **Stream
 
     # run app
     streamlit run app.py
+    ```
+## Requirements
+- streamlit
+- pandas
+- numpy
+- scikit-learn
 
